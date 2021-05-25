@@ -41,8 +41,6 @@ ADAPTABLE
 VERSATILE
 EASY TO MANUFACTURE
 
-
-
 CONCLUSION:-
 
 The main objective of our project is to help the vulnerable people make them less dependent and assist them in ignoring their disabilities and lead a happy life.
