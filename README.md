@@ -1,16 +1,16 @@
 # vision-assisting-glasses
 
 CONTENT OF THE DOCUMENT:-
-PROBLEM STATEMENT
-ABSTRACT
-OUR SOLUTION
+/t PROBLEM STATEMENT
+/t ABSTRACT
+SOLUTION
 REQUIREMENT ANALYSIS
 ADVANTAGES OF OUR SOLUTION
 CONCLUSION
 
 PROBLEM STATEMENT:-
 
-                                     Difficulty to navigate around places for visually impaired people. Blind people roam easily around their house without any help because they know the position of everything in the house, but they face a lot of challenges when they visit any unfamiliar places.
+Difficulty to navigate around places for visually impaired people. Blind people roam easily around their house without any help because they know the position of everything in the house, but they face a lot of challenges when they visit any unfamiliar places.
 
 ABSTRACT :-
 
